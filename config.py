@@ -10,8 +10,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # BingX API Configuration
-BINGX_API_KEY = hMJEMJvUcVpF9TFrv3aifan4L6IEcnAxge7dT5jL9dGeWiriK7qAKlfBhStufuhve5wDT3ihqTtQ1wke9u3cg('BINGX_API_KEY', '')
-BINGX_SECRET_KEY = 65iRa9e51QQriDkJXudtE9naY04wyjfhVdcTODWcmwUH7EylBsQ8B3g4JWpaF1cZD6o3cvZ1fw9z29nXQ('BINGX_SECRET_KEY', '')
+BINGX_API_KEY=  hMJEMJvUcVpF9TFrv3aifan4L6IEcnAxge7dT5jL9dGeWiriK7qAKlfBhStufuhve5wDT3ihqTtQ1wke9u3cg('BINGX_API_KEY', '')
+BINGX_SECRET_KEY= 65iRa9e51QQriDkJXudtE9naY04wyjfhVdcTODWcmwUH7EylBsQ8B3g4JWpaF1cZD6o3cvZ1fw9z29nXQ('BINGX_SECRET_KEY', '')
 BINGX_BASE_URL = 'https://open-api.bingx.com'
 
 # Trading Configuration
